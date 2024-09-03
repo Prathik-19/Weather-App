@@ -1,4 +1,4 @@
-# Weather App with PM Accelerator Info
+# Weather App
 
 ## Overview
 
